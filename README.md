@@ -5,9 +5,8 @@ guitars. Amplification is fixed at 1&times; &mdash;the circuit is only to adapt
 the impedance (piezo bridge pickups are pretty loud already).
 
 Input impedance is *only* 1M&Omega;, but that is because the bridge pickup that
-I designed this circuit for has a capacitance of only 2pF. Plus, it is for a
-guitar, so a low bound of roughly 80Hz on the frequency range is fine (it does
-not have to go down to 20Hz).
+I designed this circuit for has a capacitance of 2pF. With an impedance of 1M&Omega;
+the low bound of the frequency range is roughly 80Hz, which is fine for a guitar.
 
 It is a pretty classic opamp circuit, with the main feature being that it is
 quite compact (and notably: narrow). The idea is to fit this preamplifier into
