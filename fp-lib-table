@@ -1,4 +1,5 @@
 (fp_lib_table
   (version 7)
   (lib (name "VisualPlace")(type "Legacy")(uri "D:/Products/KicadLibrarian/data/visualplace.mod")(options "")(descr ""))
+  (lib (name "TrimPots")(type "KiCad")(uri "D:/Public/Templates_Libraries/kicad/modules/Trimpots.pretty")(options "")(descr "Trimmer potentiometers"))
 )
