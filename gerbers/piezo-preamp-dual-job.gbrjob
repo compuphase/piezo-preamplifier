@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "7.0.9"
     },
-    "CreationDate": "2024-01-15T14:46:19+01:00"
+    "CreationDate": "2024-01-31T10:13:27+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "preamp2",
       "GUID": "70726561-6d70-4322-9e6b-696361645f70",
-      "Revision": "1"
+      "Revision": "2"
     },
     "Size": {
-      "X": 28.1,
-      "Y": 15.1
+      "X": 26.1,
+      "Y": 14.6
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,

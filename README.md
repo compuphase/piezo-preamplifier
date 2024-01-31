@@ -37,6 +37,8 @@ The dual-channel circuit has two independent impedance converters, and a third
 preamplifier to mix the outputs of the first stages. The gain of the "treble"
 stage can be adjusted relative to the "bass" gain, with a trimmer pot.
 
+---
+
 Copyright 2023-2024, CompuPhase, Thiadmer Riemersma<br>
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
