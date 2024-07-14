@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "7.0.9"
+      "Version": "8.0.1"
     },
-    "CreationDate": "2024-01-31T10:13:27+01:00"
+    "CreationDate": "2024-07-12T20:59:44+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "preamp2",
       "GUID": "70726561-6d70-4322-9e6b-696361645f70",
-      "Revision": "2"
+      "Revision": "3"
     },
     "Size": {
       "X": 26.1,

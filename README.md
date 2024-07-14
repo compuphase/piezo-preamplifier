@@ -34,8 +34,13 @@ the 580pF segment at the treble side, and the 970pF segment at the bass side of
 the bridge.
 
 The dual-channel circuit has two independent impedance converters, and a third
-preamplifier to mix the outputs of the first stages. The gain of the "treble"
-stage can be adjusted relative to the "bass" gain, with a trimmer pot.
+preamplifier to mix the outputs of the first stages. The balance of the "treble"
+side relative to the "bass" side, can be adjusted with a trimmer pot.
+
+The preamplifier has a "bass boost" filter that boosts the frequencies below
+roughly 250 Hz by roughly 5 dB. The resonance chamber of a classical guitar has
+a main resonant frequency at around 200 to 250 Hz, which is what the bass boost
+emulates.
 
 ---
 
