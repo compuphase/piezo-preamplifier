@@ -1,11 +1,12 @@
-"Reference","Value","Footprint","Qty","Description"
-"C1,C2,C5","220n","0603","3",""
-"C3,C4","68p","0603","2",""
-"C6","10n","0603","1",""
-"C7","1u","0603","1",""
-"C8","4u7","0805","1",""
-"R1,R2,R7,R8","1M","0603","4",""
-"R3,R4,R5,R6,R11,R12,R13","68k","0603","7",""
-"R9","47k","0603","1",""
-"RV2","20k","TrimPots:TC42","1","Bourns 3312J-1-203E"
-"U1,U2,U3","OPA1677","SOT23-5","3","OPA1677DBV"
+Reference,Value,Footprint,Qty,ProductNumber
+"C1,C2,C5",220n,VisualPlace:0603,3,
+"C3,C4",68p,VisualPlace:0603,2,
+C6,22n,VisualPlace:0603,1,
+"C7,C9,C10",1u,VisualPlace:0603,3,
+C8,4u7,VisualPlace:0805,1,
+"R1,R2",2M2,VisualPlace:0603,2,
+"R3,R4,R5,R6,R10,R11,R12,R15",100k,VisualPlace:0603,8,
+"R7,R8",470k,VisualPlace:0603,2,
+"R9,R13",22k,VisualPlace:0603,2,
+RV2,20k,TrimPots:TC42,1,3312J-1-203E
+"U1,U2,U3",OPA323,VisualPlace:SOT353,3,OPA323IDCKR 
