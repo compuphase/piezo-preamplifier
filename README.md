@@ -26,7 +26,8 @@ inserted. When the plug is pulled out of the instrument, the battery is disconne
 This circuit was built for the ARTEC PG-333 bridge pickup. The pickup connects two
 piezo bridge pickups in parallel, where each pickup covers only three strings. For
 use with this preamplifier, the two piezo segments have to be separated, and each
-connected to a separate input of the preamplifer.
+connected to a separate input of the preamplifer. Input impedance for each channel
+is roughly 2M&Omega;.
 
 I measured one of the piezo segments to have a capacitance of 580pF and the other
 as 970pF &mdash;to my surprise. This being the case, you will want to position
@@ -44,6 +45,6 @@ emulates.
 
 ---
 
-Copyright 2023-2024, CompuPhase, Thiadmer Riemersma<br>
+Copyright 2023-2025, CompuPhase, Thiadmer Riemersma<br>
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
